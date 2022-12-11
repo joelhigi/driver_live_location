@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "523393145001",
+    "firebase_url": "https://noble-radio-299516-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "noble-radio-299516",
+    "storage_bucket": "noble-radio-299516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523393145001:android:d904cc2c9109ed6d58b1b8",
+        "android_client_info": {
+          "package_name": "com.specialoops.mylocationchecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523393145001-8uvkncglpg2j9kmhk04g3pr8mb32j4vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.specialoops.mylocationchecker",
+            "certificate_hash": "3491b0da5e0bccce4e979de79632f54a7987ef3c"
+          }
+        },
+        {
+          "client_id": "523393145001-99ese6dqeuq85d132482cfpd9nfqd6gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb-D-mLWnbcf4nNdFdGyPonDFvmvzxY9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523393145001-99ese6dqeuq85d132482cfpd9nfqd6gi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523393145001:android:0d27053bca2f01ef58b1b8",
+        "android_client_info": {
+          "package_name": "com.specialoops.mylocationtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523393145001-f01k0bd7p3vo6tkrld9ung85vg00q9bo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.specialoops.mylocationtracker",
+            "certificate_hash": "3491b0da5e0bccce4e979de79632f54a7987ef3c"
+          }
+        },
+        {
+          "client_id": "523393145001-99ese6dqeuq85d132482cfpd9nfqd6gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb-D-mLWnbcf4nNdFdGyPonDFvmvzxY9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523393145001-99ese6dqeuq85d132482cfpd9nfqd6gi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523393145001:android:e52a4b9239bc4d5e58b1b8",
+        "android_client_info": {
+          "package_name": "com.specialops.loctrackerjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523393145001-83klh1m663jvi6k2pf04944u4ngs7lbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.specialops.loctrackerjava",
+            "certificate_hash": "3491b0da5e0bccce4e979de79632f54a7987ef3c"
+          }
+        },
+        {
+          "client_id": "523393145001-99ese6dqeuq85d132482cfpd9nfqd6gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb-D-mLWnbcf4nNdFdGyPonDFvmvzxY9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523393145001-99ese6dqeuq85d132482cfpd9nfqd6gi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
